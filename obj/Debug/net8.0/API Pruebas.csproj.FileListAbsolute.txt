@@ -60,3 +60,14 @@ C:\Users\DELL\OneDrive\Documents\GitHub\API_Pruebas\obj\Debug\net8.0\refint\API 
 C:\Users\DELL\OneDrive\Documents\GitHub\API_Pruebas\obj\Debug\net8.0\API Pruebas.pdb
 C:\Users\DELL\OneDrive\Documents\GitHub\API_Pruebas\obj\Debug\net8.0\API Pruebas.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Documents\GitHub\API_Pruebas\obj\Debug\net8.0\ref\API Pruebas.dll
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.AssemblyInfoInputs.cache
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.AssemblyInfo.cs
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.csproj.CoreCompileInputs.cache
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.MvcApplicationPartsAssemblyInfo.cache
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.RazorAssemblyInfo.cache
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.RazorAssemblyInfo.cs
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.sourcelink.json
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.dll
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\refint\API Pruebas.dll
+D:\sopa\c#\api\API_Pruebas\obj\Debug\net8.0\API Pruebas.pdb
