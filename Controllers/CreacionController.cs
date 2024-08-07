@@ -27,7 +27,8 @@ public class CreacionController : Controller
 
             var data = new
             {
-                userName = model.userName
+                userName = model.userName,
+                password = model.password
             };
         }
 
