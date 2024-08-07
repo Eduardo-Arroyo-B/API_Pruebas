@@ -20,8 +20,13 @@ public class CreacionController : Controller
         return View();
     }
 
+    public IActionResult ID()
+    {
+        return View();
+    }
+
     [HttpPost]
-    public async Task<IActionResult> PostData(CreacionModel model)
+    public async Task<IActionResult> Index(CreacionModel model)
     {
         if (ModelState.IsValid)
         {
@@ -57,12 +62,16 @@ public class CreacionController : Controller
             if (response.IsSuccessStatusCode)
             {
                 var responseContent = await response.Content.ReadAsStringAsync();
-                ViewBag.ResponseContent = responseContent;
+                var Desearilizar = JsonSerializer.Deserialize<ApiModel>(responseContent);
+                TempData["ResponseContent"] = Desearilizar.Message;
+                Console.WriteLine(Desearilizar.Message);
             }
             else
             {
-                ViewBag.ResponseContent = $"Error: {response.StatusCode} - {response.ReasonPhrase}";
+                TempData["ResponseContent"] = $"Error: {response.StatusCode} - {response.ReasonPhrase}";
             }
+
+            return RedirectToAction(nameof(ID));
         }
 
         return View(model);
