@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API_Pruebas
 build_property.RootNamespace = API_Pruebas
-build_property.ProjectDir = C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\
+build_property.ProjectDir = C:\Users\DELL\OneDrive\Documents\GitHub\API_Pruebas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas
+build_property.MSBuildProjectDirectory = C:\Users\DELL\OneDrive\Documents\GitHub\API_Pruebas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/Creacion/Index.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/Creacion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYWNpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/Home/Index.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/Home/Privacy.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/Shared/Error.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/_ViewImports.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/_ViewStart.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GAMERTECH/Desktop/Proyects/C\#/API Pruebas/API Pruebas/Views/Shared/_Layout.cshtml]
+[C:/Users/DELL/OneDrive/Documents/GitHub/API_Pruebas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pesos0yze9
