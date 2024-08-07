@@ -3,3 +3,89 @@
 }
 
 <h4>Creacion</h4>
+
+@* <table class="table"> *@
+@*     <thead class="table-light"> *@
+@*     <tr> *@
+@*         <th>"userName"</th> *@
+@*         <th>"password"</th> *@
+@*         <th>"Expediente"</th> *@
+@*         <th>"IdCte"</th> *@
+@*         <th>"IdConjunto"</th> *@
+@*         <th>"TipoContrato"</th> *@
+@*         <th>"FechaElaCto"</th> *@
+@*         <th>"InicioMantenimiento"</th> *@
+@*         <th>"Manzana"</th> *@
+@*         <th>"Lote"</th> *@
+@*     </tr> *@
+@*     </thead> *@
+@*     <tbody> *@
+@*     <tr> *@
+@*         <td>T3ST</td> *@
+@*         <td>SIST3MAS</td> *@
+@*         <td>lc202331</td> *@
+@*         <td>9</td> *@
+@*         <td>10</td> *@
+@*         <td>E</td> *@
+@*         <td>2023-09-29</td> *@
+@*         <td>2023-11-05</td> *@
+@*         <td>116</td> *@
+@*         <td>31</td> *@
+@*     </tr> *@
+@*     </tbody> *@
+@* </table> *@
+
+<form asp-action="PostData" method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div class="mb-3">
+        <label for="userName" class="form-label">User Name</label>
+        <input type="text" class="form-control" id="userName">
+        <span asp-validation-for="username" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="password">
+        <span asp-validation-for="password" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="Expediente" class="form-label">Expediente</label>
+        <input type="text" class="form-control" id="Expediente">
+        <span asp-validation-for="Expediente" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="IdCte" class="form-label">IdCte</label>
+        <input type="number" class="form-control" id="IdCte">
+        <span asp-validation-for="IdCte" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="IdConjunto" class="form-label">IdConjunto</label>
+        <input type="number" class="form-control" id="IdConjunto">
+        <span asp-validation-for="IdConjunto" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="TipoContrato" class="form-label">Tipo Contrato</label>
+        <input type="text" class="form-control" id="TipoContrato">
+        <span asp-validation-for="TipoContrato" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="FechaElaCto" class="form-label">Fecha Elaboración Contrato</label>
+        <input type="date" class="form-control" id="FechaElaCto">
+        <span asp-validation-for="FechaElaCto" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="InicioMantenimiento" class="form-label">Inicio Mantenimiento</label>
+        <input type="date" class="form-control" id="InicioMantenimiento">
+        <span asp-validation-for="InicioMantenimiento" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="Manzana" class="form-label">Manzana</label>
+        <input type="number" class="form-control" id="Manzana">
+        <span asp-validation-for="Manzana" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="Lote" class="form-label">Lote</label>
+        <input type="number" class="form-control" id="Lote">
+        <span asp-validation-for="Lote" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
