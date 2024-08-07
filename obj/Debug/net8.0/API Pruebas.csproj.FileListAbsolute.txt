@@ -1,0 +1,30 @@
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\appsettings.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\API Pruebas.staticwebassets.runtime.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\API Pruebas.exe
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\API Pruebas.deps.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\API Pruebas.runtimeconfig.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\API Pruebas.dll
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\bin\Debug\net8.0\API Pruebas.pdb
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.AssemblyInfoInputs.cache
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.AssemblyInfo.cs
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.RazorAssemblyInfo.cache
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.RazorAssemblyInfo.cs
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets\msbuild.API Pruebas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets\msbuild.build.API Pruebas.props
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Pruebas.props
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Pruebas.props
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\scopedcss\bundle\API Pruebas.styles.css
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\scopedcss\projectbundle\API Pruebas.bundle.scp.css
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.dll
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\refint\API Pruebas.dll
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.pdb
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.genruntimeconfig.cache
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\ref\API Pruebas.dll
