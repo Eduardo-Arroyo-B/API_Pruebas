@@ -27,6 +27,7 @@ public class CreacionController : Controller
         {
             var url = "https://arieswebapi-pre-produccion.azurewebsites.net/Contrato/rest/CrearContratoLote_MP_PC ";
 
+
             var data = new
             {
                 userName = model.userName,
@@ -47,7 +48,6 @@ public class CreacionController : Controller
                 },
                 CreadoPor = model.CreadoPor
             };
-
             var jsonString = JsonSerializer.Serialize(data);
             var content = new StringContent(jsonString, Encoding.UTF8, "application/json");
 
@@ -57,11 +57,11 @@ public class CreacionController : Controller
             if (response.IsSuccessStatusCode)
             {
                 var responseContent = await response.Content.ReadAsStringAsync();
-                return Ok(responseContent);
+                ViewBag.ResponseContent = responseContent;
             }
             else
             {
-                return StatusCode((int)response.StatusCode, response.ReasonPhrase);
+                ViewBag.ResponseContent = $"Error: {response.StatusCode} - {response.ReasonPhrase}";
             }
         }
 
