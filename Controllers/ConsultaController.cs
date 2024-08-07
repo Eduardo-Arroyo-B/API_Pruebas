@@ -20,7 +20,7 @@ public class ConsultaController : Controller
     }
 
     [HttpPost]
-    public async Task<IActionResult> PostConsulta(ConsultaModel consulta)
+    public async Task<IActionResult> Index(ConsultaModel consulta)
     {
 
         var url = "https://arieswebapi-pre-produccion.azurewebsites.net/Contrato/rest/ObtenerContratoLote ";
@@ -52,6 +52,6 @@ public class ConsultaController : Controller
             ViewBag.ResponseContent = $"Error {response.Content} - {response.ReasonPhrase}";
         }
         
-        return View();
+        return View(consulta);
     }
 }
