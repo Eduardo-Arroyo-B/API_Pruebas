@@ -28,3 +28,4 @@ C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\
 C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.pdb
 C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.genruntimeconfig.cache
 C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\ref\API Pruebas.dll
+C:\Users\GAMERTECH\Desktop\Proyects\C#\API Pruebas\API Pruebas\obj\Debug\net8.0\API Pruebas.sourcelink.json
